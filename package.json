@@ -1,5 +1,5 @@
 {
-  "name": "babel-loader",
+  "name": "af-babel-loader",
   "version": "7.1.2",
   "description": "babel module loader for webpack",
   "files": [
